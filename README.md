@@ -9,7 +9,7 @@ You can use the [editor on GitHub](https://github.com/960761/AboutCSS/edit/maste
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
