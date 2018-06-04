@@ -2,7 +2,7 @@
 ## 入门类：
 Headfirst
 
-W3shool
+W3shool(https://www.w3schools.com/css/default.asp)
 
 ## 第一类：CSS语言本身（理论和实践并重）
      《CSS 设计指南》
