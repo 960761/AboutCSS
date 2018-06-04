@@ -4,9 +4,11 @@ You can use the [editor on GitHub](https://github.com/960761/AboutCSS/edit/maste
 
 ## Contents
 
-You can refer to [**books**](https://github.com/960761/AboutCSS/tree/master/books) folder for books of CCS;
+You can refer to [**books**](https://github.com/960761/AboutCSS/tree/master/books) {:target="_blank"} folder for books of CCS;
 
-You can refer to [**code**](https://github.com/960761/AboutCSS/tree/master/code) folder for example code for books;
+You can refer to [**code**](https://github.com/960761/AboutCSS/tree/master/code) {:target="_blank"} folder for example code for books;
+
+<a href="https://github.com/960761/AboutCSS/tree/master/books" target="_blank">here</a>
 
 You can refer to the following for notes.
 
