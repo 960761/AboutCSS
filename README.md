@@ -3,20 +3,19 @@
 You can use the [editor on GitHub](https://github.com/960761/AboutCSS/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 ## Contents
-You can refer to **books** folder for books of CCS;
 
-You can refer to **code** folder for example code for books;
+You can refer to [**books**](https://github.com/960761/AboutCSS/tree/master/books) folder for books of CCS;
 
-You can refer to **posts** folder for notes.
+You can refer to [**code**](https://github.com/960761/AboutCSS/tree/master/code) folder for example code for books;
 
+You can refer to the following for notes.
 
-## Contents here
 
 
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><br/>
     </li>
   {% endfor %}
 </ul>
