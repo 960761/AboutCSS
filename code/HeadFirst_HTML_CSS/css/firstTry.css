@@ -1,0 +1,32 @@
+                     body{
+                               margin-left:10%;
+                               margin-right:10%;
+                               background-color:#d2b48c;
+                               font-family:Verdana,Arial,sans-serif;
+                             }
+                     h1{ color: Red;
+                         font: sans-serif;
+                         border-bottom:1px solid black; }
+                     p.note{color: Blue;}
+                     
+                     p#trial 
+                     {       font-style: italic;
+                             border-color: Blue;
+                              border-width: 1px;
+                              border-style: dashed;
+                              border-color: White;
+                              border-top-color: Blue;
+                              background-color: #a7cece;
+                              padding: 20px;
+                              padding-left: 60px;
+                              margin: 30px;
+                              margin-right: 50px;
+                              background-image: url(../imgs/background.gif);
+                              background-position: top left;
+                              background-repeat: no-repeat;}
+                              
+                      .index{font-style: italic;
+                             color: Red;}
+                      .content{font-weight: bold;}
+                      li{list-style-type: decimal;
+                         list-style-position:inside;}

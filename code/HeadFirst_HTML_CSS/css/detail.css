@@ -1,0 +1,13 @@
+                 body{
+                               margin-left:10%;
+                               margin-right:10%;
+                               background-color:#d2b48c;
+                               font-size:medium;
+                               line-height:1.5em;
+                             }
+                 h1,h2{color: Red;
+                       font: sans-serif;}
+                 h1{border-bottom:1px solid gray;}
+                 h2{text-decoration:underline;}
+                 p.hello{color:Blue;
+                         font-size:1.2em;}
