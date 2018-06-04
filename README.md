@@ -11,7 +11,7 @@ You can refer to [**code**](https://github.com/960761/AboutCSS/tree/master/code)
 
 You can refer to the following for notes:
 
-[page](https://github.com/960761/AboutCSS/blob/master/code/HeadFirst_HTML_CSS/pages/detail.htm)
+[page](https://github.com/960761/AboutCSS/blob/master/code/HeadFirst_HTML_CSS/pages/detail)
 
 <ul>
   {% for post in site.posts %}
