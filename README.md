@@ -8,7 +8,6 @@ You can refer to [**books**](https://github.com/960761/AboutCSS/tree/master/book
 
 You can refer to [**code**](https://github.com/960761/AboutCSS/tree/master/code) {:target="_blank"} folder for example code for books;
 
-<a href="https://github.com/960761/AboutCSS/tree/master/books" target="_blank">here</a>
 
 You can refer to the following for notes.
 
